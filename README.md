@@ -9,3 +9,5 @@ fn foo(
 +-- 19 lines: let x = vec![1, 2, 3];---------------------------------
 ```
 
+Use zr/zm to toggle.
+
